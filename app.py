@@ -9,7 +9,7 @@ def nao_entre_em_panico():
 
    primos = 'Está tudo bem galera. É só mais um semestre!'
 
-    return primos
+   return primos
 
 
 if __name__ == "__main__":
